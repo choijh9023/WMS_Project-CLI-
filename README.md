@@ -7,6 +7,8 @@
 <li>주문고객이 상품을 주문하고 주문 상태에 따라 실시간으로 창고의 입출고 내역을 조회할 수 있다.</li>
 <li>CLI방식으로 구현 후, Spring MVC 및 Mybatis적용해서 리펙토링한다. </li>
 </ul>
+
+---
 <h3>팀원 소개</h3>
 
 | 이름 |                                                                      업무 |
@@ -18,6 +20,7 @@
 | 이도엽 | 주문관리 |
 | 이다혜 | 배송관리 |
 
+---
 <h3>주요기능</h3>
 
 - 상품관리 : 상품 등록 및 조회 관련 기능 처리
@@ -29,9 +32,28 @@
   - 각 입/출고 상태는 대기/취소/확정으로 나뉜다.
 - 통합재고관리 : 상품의 입/출고상태에 따라 실시간으로 재고조회 기능 처리
 
+---
+
 ### 사용기술
 
 - JAVA : 전체적인 백엔드 JAVA 객체지향으로 구현
 - MySQL : 관계형 데이터베이스로 데이터 저장 및 관리
 - JDBC : Java 표준 API를 사용하여 MySQL과 연결하고, 쿼리를 통해 CRUD (Create, Read, Update, Delete) 작업 수행
 
+---
+### 주요기능 
+![Class Diagram](src/image/주요기능.png)
+
+---
+### Class Diagram
+![Class Diagram](src/image/Class다이어그램.png)
+
+---
+### ER Diagram
+![ERDiagram](src/image/ER다이어그램.png)
+
+---
+### Usecase
+![Usecase](src/image/유즈케이스.png)
+
+---
