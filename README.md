@@ -11,14 +11,37 @@
 ---
 <h3>팀원 소개</h3>
 
-| 이름 |                                                                      업무 |
-| --- | --- |
-| 양성준  | ERD설계,Back-end 개발환경구성, GitHub관리,전체 개발관리  |
-| 최문석  | 통합재고관리, 창고관리, 유즈케이스작성  |
-| 백정훈 | 발주관리 |
-| 문지환 | 상품관리 |
-| 이도엽 | 주문관리 |
-| 이다혜 | 배송관리 |
+<table style="border-collapse: collapse; width: 100%;" border="1">
+    <thead>
+        <tr>
+            <th><img src="https://avatars.githubusercontent.com/u/100821691?v=4" width="100px" alt="_"/></th>
+            <th><img src="https://avatars.githubusercontent.com/u/148327627?s=64&v=4" width="100px" alt="_"/></th>
+            <th><img src="https://avatars.githubusercontent.com/u/74845690?v=4" width="100px" alt="_"/></th>
+            <th><img src="https://avatars.githubusercontent.com/u/79977544?v=4" width="100px" alt="_"/></th>
+            <th><img src="https://avatars.githubusercontent.com/u/84374546?v=4" width="100px" alt="_"/></th>
+            <th><img src="https://avatars.githubusercontent.com/u/152829358?s=64&v=4" width="100px" alt="_"/></th>
+        </tr>
+        <tr>
+            <th style="width: 14%;">양성준</th>
+            <th style="width: 14%;">최문석</th>
+            <th style="width: 14%;">백정훈</th>
+            <th style="width: 14%;">문지환</th>
+            <th style="width: 14%;">이도엽</th>
+            <th style="width: 14%;">이다혜</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>ERD설계, <br>개발 환경구성, <br>GitHub 관리, <br>전체 개발관리</td>
+            <td>통합재고 관리,<br> 창고 관리,<br> 유즈케이스 작성</td>
+            <td>발주 관리</td>
+            <td>상품 관리</td>
+            <td>주문 관리</td>
+            <td>배송 관리</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ---
 <h3>주요기능</h3>
